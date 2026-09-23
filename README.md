@@ -829,3 +829,6 @@ rather than simply calling an LLM API.
 **Jegan RK**
 
 ---
+Built as part of my AI Engineering learning journey.
+
+The project focuses on learning by building the underlying concepts rather than simply using high-level AI frameworks.
